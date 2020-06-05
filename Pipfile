@@ -12,5 +12,3 @@ altair = "==2.3.0"
 vega = "==1.4.0"
 jupyter = "*"
 
-[requires]
-python_version = "3.7"
